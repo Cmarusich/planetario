@@ -14,6 +14,7 @@
     max-width: 100%;
 }
 
+
 body {background:#f0e9d8;}
 
 .principal {width: 100%;
@@ -54,7 +55,9 @@ header nav a {
     text-decoration: none;
     padding: 10px;
     line-height: normal;
+    
 }
+
 
 footer {position: bottom;
     bottom: 0;
@@ -89,11 +92,7 @@ font-family: encabezados;
 .contenido2 {
   text-align: center;
   font-size: 50px;
-  margin: 100px;
-
-
-
-}
+  margin: 100px;}
 
 .item3 {background-image: url(imagenes/formacion.webp);
     background-size: 100%;} 
@@ -104,4 +103,3 @@ font-family: encabezados;
     font-family: encabezados;
     }
 
-    
